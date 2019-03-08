@@ -1,8 +1,12 @@
 {
-  "posts": [
+  "accounts": [
     {
-      "id": 1,
-      "title": "hello"
+        id: "gs127sg1sj1s",
+        followersCount: 127,
+        followers: ["awhdaw7d3qegqda", "awdh2e7a2ega2ega"],
+        followingCount: 82,
+        following: ["27e1su2i12uhs"],
+        profileImageUrl: "http://placekitten.com/290/480"
     }
   ],
   "profile": {
